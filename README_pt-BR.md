@@ -3,7 +3,7 @@ description: >-
 Aqui poderá encontrar toda a informação acerca desta ferramenta de gestão de conteúdos de Explore.
 ---
 
-# Guia de uso de Explore CMS
+# Guia de uso de Explore
 
 ## Que é Explore CMS
 
