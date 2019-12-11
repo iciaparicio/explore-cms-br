@@ -1,5 +1,6 @@
 ---
-description: Acesse Explore CMS da Comms Tool
+description: >-
+Acesse Explore CMS da Comms Tool
 ---
 
 # Primeiros passos

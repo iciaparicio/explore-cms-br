@@ -1,5 +1,6 @@
 ---
-description: Todos os passos detalhados para criar um módulo em Explore CMS.
+description: >-
+Todos os passos detalhados para criar um módulo em Explore CMS.
 ---
 
 # Criação de Módulo
