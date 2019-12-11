@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Em Explore CMS, há algumas ações que você fará com maior frequência. Observe de maneira rápida como fazê\-las.
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Projetado para apresentar diferentes tarifas com um formato de fileiras.
 ---
 

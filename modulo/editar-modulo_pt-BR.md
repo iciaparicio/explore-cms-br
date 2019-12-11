@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Você pode modificar um módulo previamente criado. Mude a data de validade, atualize uma imagem, adapte um texto...
 ---
 

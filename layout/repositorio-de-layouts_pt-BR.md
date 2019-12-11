@@ -1,5 +1,6 @@
 ---
-description: Acesse a lista de layouts no menu lateral.
+description:>-
+Acesse a lista de layouts no menu lateral.
 ---
 
 # Arquivo de layouts

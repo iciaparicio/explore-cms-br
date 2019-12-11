@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Esta ação publica as mudanças editadas em um layout e, assim, os usuários do app poderão visualizá\-las.
 ---
 

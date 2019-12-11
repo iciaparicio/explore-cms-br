@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Aqui poderá encontrar toda a informação acerca desta ferramenta de gestão de conteúdos de Explore.
 ---
 

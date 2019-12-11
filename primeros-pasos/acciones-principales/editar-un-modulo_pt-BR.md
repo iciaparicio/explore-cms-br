@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Veja rapidamente como editar um módulo. No final deste artigo, você pode acessar os passos de maneira muito mais detalhada.
 ---
 

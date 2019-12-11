@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 A ferramenta de configuração de Explore conta com dois blocos de configuração básicos: Modules e Layouts.
 ---
 

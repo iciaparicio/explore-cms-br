@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Também denominado carrossel horizontal. Utilize este módulo, por exemplo, para destacar conteúdo relevante para o usuário.
 ---
 

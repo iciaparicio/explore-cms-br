@@ -1,5 +1,6 @@
 ---
-description: Conheça em detalhe como editar layouts para os usuários.
+description:>-
+Conheça em detalhe como editar layouts para os usuários.
 ---
 
 # Edição do Layout

@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Seção de Perguntas Frequentes, onde poderá consultar dúvidas mais comuns sobre a utilização de Explore CMS.
 ---
 

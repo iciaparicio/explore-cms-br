@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Acesse Explore CMS da Comms Tool
 ---
 
