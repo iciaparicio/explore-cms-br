@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Todos os passos detalhados para criar um módulo em Explore CMS.
 ---
 
