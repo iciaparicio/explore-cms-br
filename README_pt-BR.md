@@ -1,6 +1,5 @@
 ---
-description:>-
-Aqui poderá encontrar toda a informação acerca desta ferramenta de gestão de conteúdos de Explore.
+description: Aqui poderá encontrar toda a informação acerca desta ferramenta de gestão de conteúdos de Explore.
 ---
 
 # Guia de uso de Explore CMS

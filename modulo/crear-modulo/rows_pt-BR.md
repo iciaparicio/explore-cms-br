@@ -1,6 +1,5 @@
 ---
-description:>-
-Projetado para apresentar diferentes tarifas com um formato de fileiras.
+description: Projetado para apresentar diferentes tarifas com um formato de fileiras.
 ---
 
 # Rows

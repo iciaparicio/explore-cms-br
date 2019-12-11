@@ -1,6 +1,5 @@
 ---
-description:>-
-Acesse a lista de layouts no menu lateral.
+description: Acesse a lista de layouts no menu lateral.
 ---
 
 # Arquivo de layouts
@@ -17,4 +16,3 @@ O arquivo de layouts inclui informação sobre:
 * **MODIFIED**. A versão do layout é uma versão com mudanças pendentes de publicação. Os usuários não verão essas mudanças até a publicação do layout.
 
 **ACTIONS**. Com o ícone ![](../.gitbook/assets/icono_editar.png) pode acessar a edição de módulos do layout.
-

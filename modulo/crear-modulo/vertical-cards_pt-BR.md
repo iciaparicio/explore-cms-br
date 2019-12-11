@@ -1,6 +1,5 @@
 ---
-description:>-
-Exibe elementos em formato vertical. Utilizeo, por exemplo, para apresentar ofertas de celulares.
+description: Exibe elementos em formato vertical. Utilizeo, por exemplo, para apresentar ofertas de celulares.
 ---
 
 # Vertical cards

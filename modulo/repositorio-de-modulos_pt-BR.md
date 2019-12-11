@@ -1,6 +1,5 @@
 ---
-description:>-
-O site onde ingressar todos os módulos.
+description: O site onde ingressar todos os módulos.
 ---
 
 # Arquivo de módulos

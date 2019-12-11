@@ -1,6 +1,5 @@
 ---
-description:>-
-Tipo de módulo ideal para apresentar promoções ou qualquer conteúdo relacionado com uma campanha específica que você deseje oferecer a seus clientes.
+description: Tipo de módulo ideal para apresentar promoções ou qualquer conteúdo relacionado com uma campanha específica que você deseje oferecer a seus clientes.
 ---
 
 # Banner \+ links

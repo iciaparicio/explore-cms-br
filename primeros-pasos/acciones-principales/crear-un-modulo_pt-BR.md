@@ -1,6 +1,5 @@
 ---
-description:>-
-Veja rapidamente como criar um módulo. No final deste artigo, você pode acessar os passos de maneira muito mais detalhada.
+description: Veja rapidamente como criar um módulo. No final deste artigo, você pode acessar os passos de maneira muito mais detalhada.
 ---
 
 # Criação de um módulo

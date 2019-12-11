@@ -1,6 +1,5 @@
 ---
-description:>-
-Também denominado carrossel horizontal. Utilize este módulo, por exemplo, para destacar conteúdo relevante para o usuário.
+description: Também denominado carrossel horizontal. Utilize este módulo, por exemplo, para destacar conteúdo relevante para o usuário.
 ---
 
  Featured Content

@@ -1,6 +1,5 @@
 ---
-description:>-
-A ferramenta de configuração de Explore conta com dois blocos de configuração básicos: Modules e Layouts.
+description: A ferramenta de configuração de Explore conta com dois blocos de configuração básicos: Modules e Layouts.
 ---
 
 # Estrutura de Explore CMS

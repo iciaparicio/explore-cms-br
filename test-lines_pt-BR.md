@@ -1,6 +1,5 @@
 ---
-description:>-
-Utilize esta opção do menu principal para testar como ficarão os conteúdos que está preparando antes da publicação ou use\-a para visualizar simultaneamente o conteúdo de diferentes segmentos.
+description: Utilize esta opção do menu principal para testar como ficarão os conteúdos que está preparando antes da publicação ou use\-a para visualizar simultaneamente o conteúdo de diferentes segmentos.
 ---
 
 # Test lines
