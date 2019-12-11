@@ -1,5 +1,5 @@
 ---
-description: >-
+description:>-
 Exibe elementos em formato vertical. Utilizeo, por exemplo, para apresentar ofertas de celulares.
 ---
 
