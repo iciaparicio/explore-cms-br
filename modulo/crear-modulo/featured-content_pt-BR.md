@@ -2,7 +2,7 @@
 description: Também denominado carrossel horizontal. Utilize este módulo, por exemplo, para destacar conteúdo relevante para o usuário.
 ---
 
- Featured Content
+# Featured Content
 
 Módulo ideal para destacar conteúdo relevante para os usuários, limitando o número de elementos que pode visualizar e um máximo de 6.
 
