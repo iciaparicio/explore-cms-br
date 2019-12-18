@@ -22,7 +22,7 @@ Selecione o tipo de módulo.
 
 Preencha os campos obrigatórios para esse módulo e, se for necessário, quaisquer dos opcionais. Clique em **SAVE** para salvar as mudanças.
 
-### 🎯 Quer obter mais informações sobre como criar módulos?
+#### 🎯 Quer obter mais informações sobre como criar módulos?
 
 {% page-ref page="../../modulo/readme\_pt-br/" %}
 

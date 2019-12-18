@@ -18,7 +18,7 @@ Realize as mudanças necessárias e clique em **SAVE**.
 
 ![](https://lh6.googleusercontent.com/3y5MZK7ti6Dl1U_VmyAU-N2PrbPb1v_qzW45L6zgOLV8cvsChwMRAGp0YuwWXfq5YgBbqsP387dvsC3udLtytZDOONdVATI1DWzm1im48AEktpCi119H0pLocaUb0NKjyF_S_Y2Y)
 
-### 🎯 Quer obter mais informações sobre como editar módulos?
+#### 🎯 Quer obter mais informações sobre como editar módulos?
 
 {% page-ref page="../../modulo/editar-modulo\_pt-br.md" %}
 

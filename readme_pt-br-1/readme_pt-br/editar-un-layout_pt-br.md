@@ -22,7 +22,7 @@ Na edição de layout, você pode adicionar ou eliminar módulos, ou mudar a ord
 
 Quando finalizar a edição do layout, clique em **DONE** para salvar as mudanças. Note que, neste ponto, as mudanças ainda se encontram em estado _draft_. Publiqueas para que os usuários do app possam visualizálas.
 
-### ​​ 🎯 Quer obter mais informações sobre como editar layouts?
+#### ​​ 🎯 Quer obter mais informações sobre como editar layouts?
 
 {% page-ref page="../../readme\_pt-br/editar-layout\_pt-br.md" %}
 

@@ -12,7 +12,7 @@ No arquivo de layouts, clique em **PUBLISH** e confirme a mensagem mostrada na t
 
 ![](https://lh5.googleusercontent.com/o9P5bId1r6OrZf9Gx0V-CJuQ7ZRHlJCogACIc1cQXUXIDxUaKyeJBkLzx_ydQJ-TuYUovBnGPQlMfLcHjG-rquOWOF0-jSOekotRcg4o6cjVlCHWFNi_CnkTs4vK7T3KUPzKgzpI)
 
-## 🎯 Quer obter mais informações sobre como publicar layouts?
+#### 🎯 Quer obter mais informações sobre como publicar layouts?
 
 ![](../../.gitbook/assets/publish_layout.gif)
 
