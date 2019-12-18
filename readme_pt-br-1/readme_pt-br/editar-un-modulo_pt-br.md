@@ -20,5 +20,7 @@ Realize as mudanças necessárias e clique em **SAVE**.
 
 ### 🎯 Quer obter mais informações sobre como editar módulos?
 
+{% page-ref page="../../modulo/editar-modulo\_pt-br.md" %}
+
 ![](../../.gitbook/assets/edit_module.gif)
 

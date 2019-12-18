@@ -24,5 +24,7 @@ Preencha os campos obrigatórios para esse módulo e, se for necessário, quaisq
 
 ### 🎯 Quer obter mais informações sobre como criar módulos?
 
+{% page-ref page="../../modulo/readme\_pt-br/" %}
+
 ![](../../.gitbook/assets/create_module.gif)
 

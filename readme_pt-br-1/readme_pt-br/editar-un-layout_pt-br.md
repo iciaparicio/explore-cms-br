@@ -24,6 +24,8 @@ Quando finalizar a edição do layout, clique em **DONE** para salvar as mudanç
 
 ### ​​ 🎯 Quer obter mais informações sobre como editar layouts?
 
+{% page-ref page="../../readme\_pt-br/editar-layout\_pt-br.md" %}
+
 ![Como adicionar um m&#xF3;dulo em um layout](../../.gitbook/assets/edit_layouts.gif)
 
 ![Como mudar a posi&#xE7;&#xE3;o de um m&#xF3;dulo dentro de um layout](../../.gitbook/assets/move_layouts.gif)
