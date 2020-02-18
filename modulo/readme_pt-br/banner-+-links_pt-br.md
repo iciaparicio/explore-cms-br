@@ -9,7 +9,7 @@ description: >-
 
 Os módulos do tipo _Banner_ simplesmente contêm uma imagem ou um _bumper_ com um link.
 
-💡 \_\_**Você sabia?**
+💡 **Você sabia?**
 
 Um _bumper_ é um vídeo curto ou animação. Em geral, é um formato padrão com duração média aproximada de 6 segundos e costuma ser utilizado em objetivos comerciais.
 
