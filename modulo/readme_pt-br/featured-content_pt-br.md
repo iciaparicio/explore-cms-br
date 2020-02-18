@@ -170,14 +170,13 @@ Em Explore CMS, selecione a categoria ou categorias que se aplicam ao cartão qu
 
 ![](../../.gitbook/assets/categories.png)
 
-* **Acessórios** Acessórios: fones de ouvido, estojos, relógios.
-* **Pacotes de serviço** Pacotes: pacotes, planos, pacotes de produtos.
-* **Devices**. Dispositivos: smartphones, tablets.
-* **Fidelidade** . Fidelidade: associação, conteúdo de programas de fidelidade / fidelidade \(Valoriza, Priority, Movistar Club ...\)
-* **Promoções** Promoções: conteúdo promocional que se encaixa e pode até existir com outras categorias.
-* **Planos** . Planos: tarifas, atualizações do plano.
-* **Serviços** Serviços: serviços de valor agregado, aplicativos, novos recursos de aplicativos e outros serviços de TEF.
-* **TV** Televisão: planos de televisão, pacotes de conteúdo, conteúdo em destaque ou novo.
+* **Acessórios**. Acessórios: fones de ouvido, estojos, relógios.
+* **Pacotes de serviço**. Pacotes: pacotes, planos, pacotes de produtos.
+* **Smartphones**. Dispositivos: smartphones, tablets.
+* **Vivo Valoriza**. Fidelidade: associação, conteúdo de programas de fidelidade / fidelidade \(Valoriza, Priority, Movistar Club ...\)
+* **Ofertas**. Promoções: conteúdo promocional que se encaixa e pode até existir com outras categorias.
+* **Planos**. Planos: tarifas, atualizações do plano.
+* **Facilidades**. Serviços: serviços de valor agregado, aplicativos, novos recursos de aplicativos e outros serviços de TEF.
 
 {% hint style="info" %}
 A categoria **Todos** , que é a primeira a ser exibida, não é uma categoria em si, mas é a maneira do usuário de ver todo o conteúdo.
