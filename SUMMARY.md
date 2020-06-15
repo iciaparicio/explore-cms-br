@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Guia de uso de Explore CMS](README.md)
-* [Primeiros passos](readme/README.md)
-  * [Acesso](readme/acceso.md)
+* [Primeiros passos](primeros-pasos/README.md)
+  * [Acesso](primeros-pasos/acceso.md)
   * [Estrutura de Explore CMS](readme/estructura-de-explore-cms.md)
   * [Ações principais](readme/readme/README.md)
     * [Criação de um módulo](readme/readme/crear-un-modulo.md)
