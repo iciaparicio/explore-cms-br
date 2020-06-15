@@ -22,6 +22,6 @@
   * [Arquivo de layouts](layout/repositorio-de-layouts.md)
   * [Publicar layouts](layout/publicar-layouts.md)
 * [Test lines](test-lines.md)
-* [Deep links por categorías](deeplinks-en-explore.md)
+* [Deep links por categorias](deeplinks-en-explore.md)
 * [FAQ](faq.md)
 
